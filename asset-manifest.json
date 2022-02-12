@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.5e05beee.chunk.css",
-    "main.js": "./static/js/main.bc099482.chunk.js",
-    "main.js.map": "./static/js/main.bc099482.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.2cf6d6b6.js",
-    "runtime-main.js.map": "./static/js/runtime-main.2cf6d6b6.js.map",
-    "static/css/2.f83b9687.chunk.css": "./static/css/2.f83b9687.chunk.css",
-    "static/js/2.1231d903.chunk.js": "./static/js/2.1231d903.chunk.js",
-    "static/js/2.1231d903.chunk.js.map": "./static/js/2.1231d903.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.f83b9687.chunk.css.map": "./static/css/2.f83b9687.chunk.css.map",
-    "static/css/main.5e05beee.chunk.css.map": "./static/css/main.5e05beee.chunk.css.map",
-    "static/js/2.1231d903.chunk.js.LICENSE.txt": "./static/js/2.1231d903.chunk.js.LICENSE.txt",
-    "static/media/LeftDowneffect.0e948b2a.png": "./static/media/LeftDowneffect.0e948b2a.png",
-    "static/media/MainPhoto.f1e26901.png": "./static/media/MainPhoto.f1e26901.png",
-    "static/media/RightUpEffect.1baef2ae.png": "./static/media/RightUpEffect.1baef2ae.png"
+    "main.css": "/animogamedev/static/css/main.5e05beee.chunk.css",
+    "main.js": "/animogamedev/static/js/main.ba59b756.chunk.js",
+    "main.js.map": "/animogamedev/static/js/main.ba59b756.chunk.js.map",
+    "runtime-main.js": "/animogamedev/static/js/runtime-main.dd44f291.js",
+    "runtime-main.js.map": "/animogamedev/static/js/runtime-main.dd44f291.js.map",
+    "static/css/2.f83b9687.chunk.css": "/animogamedev/static/css/2.f83b9687.chunk.css",
+    "static/js/2.67ad2e43.chunk.js": "/animogamedev/static/js/2.67ad2e43.chunk.js",
+    "static/js/2.67ad2e43.chunk.js.map": "/animogamedev/static/js/2.67ad2e43.chunk.js.map",
+    "index.html": "/animogamedev/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/animogamedev/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.5e05beee.chunk.css.map": "/animogamedev/static/css/main.5e05beee.chunk.css.map",
+    "static/js/2.67ad2e43.chunk.js.LICENSE.txt": "/animogamedev/static/js/2.67ad2e43.chunk.js.LICENSE.txt",
+    "static/media/LeftDowneffect.0e948b2a.png": "/animogamedev/static/media/LeftDowneffect.0e948b2a.png",
+    "static/media/MainPhoto.f1e26901.png": "/animogamedev/static/media/MainPhoto.f1e26901.png",
+    "static/media/RightUpEffect.1baef2ae.png": "/animogamedev/static/media/RightUpEffect.1baef2ae.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cf6d6b6.js",
+    "static/js/runtime-main.dd44f291.js",
     "static/css/2.f83b9687.chunk.css",
-    "static/js/2.1231d903.chunk.js",
+    "static/js/2.67ad2e43.chunk.js",
     "static/css/main.5e05beee.chunk.css",
-    "static/js/main.bc099482.chunk.js"
+    "static/js/main.ba59b756.chunk.js"
   ]
 }
