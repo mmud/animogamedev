@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/animogamedev/static/css/main.7345e457.chunk.css",
+    "main.css": "/animogamedev/static/css/main.f3010bbd.chunk.css",
     "main.js": "/animogamedev/static/js/main.2144ed7b.chunk.js",
     "main.js.map": "/animogamedev/static/js/main.2144ed7b.chunk.js.map",
     "runtime-main.js": "/animogamedev/static/js/runtime-main.dd44f291.js",
@@ -10,7 +10,7 @@
     "static/js/2.50c697e7.chunk.js.map": "/animogamedev/static/js/2.50c697e7.chunk.js.map",
     "index.html": "/animogamedev/index.html",
     "static/css/2.f83b9687.chunk.css.map": "/animogamedev/static/css/2.f83b9687.chunk.css.map",
-    "static/css/main.7345e457.chunk.css.map": "/animogamedev/static/css/main.7345e457.chunk.css.map",
+    "static/css/main.f3010bbd.chunk.css.map": "/animogamedev/static/css/main.f3010bbd.chunk.css.map",
     "static/js/2.50c697e7.chunk.js.LICENSE.txt": "/animogamedev/static/js/2.50c697e7.chunk.js.LICENSE.txt",
     "static/media/LeftDowneffect.0e948b2a.png": "/animogamedev/static/media/LeftDowneffect.0e948b2a.png",
     "static/media/MainPhoto.f1e26901.png": "/animogamedev/static/media/MainPhoto.f1e26901.png",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.dd44f291.js",
     "static/css/2.f83b9687.chunk.css",
     "static/js/2.50c697e7.chunk.js",
-    "static/css/main.7345e457.chunk.css",
+    "static/css/main.f3010bbd.chunk.css",
     "static/js/main.2144ed7b.chunk.js"
   ]
 }
